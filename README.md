@@ -1,2 +1,2 @@
 # rssfeedgen
-RSS Generator for website
+RSS Generator for a website.
